@@ -337,22 +337,22 @@
     position: relative;
 }
 .projects .row .item:nth-child(1){
-    background: url(../assets/) center/cover no-repeat;
+    background: url() center/cover no-repeat;
 }
 .projects .row .item:nth-child(2){
-    background: url(../assets/am_school.png) center/cover no-repeat;
+    background: url(am_school.png) center/cover no-repeat;
 }
 .projects .row .item:nth-child(3){
-    background: url(../assets/) center/cover no-repeat;
+    background: url() center/cover no-repeat;
 }
 .projects .row .item:nth-child(4){
-    background: url(../assets/) center/cover no-repeat;
+    background: url() center/cover no-repeat;
 }
 .projects .row .item:nth-child(5){
-    background: url(../assets/) center/cover no-repeat;
+    background: url() center/cover no-repeat;
 }
 .projects .row .item:nth-child(6){
-    background: url(../assets/) center/cover no-repeat;
+    background: url() center/cover no-repeat;
 }
 .projects .item .item-overlay{
     position: absolute;
